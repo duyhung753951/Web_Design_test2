@@ -1,0 +1,39 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    color: white;
+}
+
+body {
+    background: burlywood;
+}
+
+span {
+    color: yellow;
+
+}
+
+.blue-color {
+    color: #00CCFF;
+}
+
+hr {
+    border: 1px solid rgba(255,255,255,0.3);
+}
+
+h2 {
+    font-size: 30px;
+}
+
+a {
+    color: red;
+    font-weight: 700;
+}
+
+img {
+    max-height: 300px;
+}
+
+.link-tag {
+    border: 2px solid rgba(255,0,0,0.5);
+}
